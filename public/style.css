@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+.image{
+   
+    
+}
+
+#heading{
+    text-align: center;
+    color: yellow;
+    font-size: 60px;
+    font-weight: bold;
+
+}
+
+#button1{
+    color: yellow;
+    background-color: black;
+    font-size: 30px;
+}
+
+#button2{
+    color: yellow;
+    font-size: 30px;
+    background-color: black;
+}
